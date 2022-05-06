@@ -1,0 +1,7 @@
+# Rename this file as terraform.tfvars and substitute your own values.
+
+prefix=""
+env=""
+region = "us-east-1"
+owner=""
+VPC_CIDR=""
